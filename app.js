@@ -11,7 +11,7 @@
 // Game Options
 let
     min = 1,
-    max = 20,
+    max = 10,
     winningNumber = Math.floor(Math.random() * (max - min + 1)) + min,
     guessesLeft = 3;
 
