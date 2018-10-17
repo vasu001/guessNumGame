@@ -1,0 +1,17 @@
+{
+  "name": "guessNumGame",
+  "version": "1.0.0",
+  "description": "A mini-project based on Javascript to play guess a number game.",
+  "main": "index.js",
+  "homepage": "https://vasu001.github.io/guessnumgame",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
