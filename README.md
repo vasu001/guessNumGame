@@ -6,4 +6,4 @@ A mini-project based on Javascript to play guess a number game.
 Skeleton
 
 ## Project View
-https://vasu001.github.io/gamenumgame/
+https://vasu001.github.io/guessNumGame/
